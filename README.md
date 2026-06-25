@@ -1,10 +1,10 @@
 # ROS 2 Aerial Robotics with PX4, Gazebo Sim, and QGroundControl
 
-<!-- Upload your demo video to GitHub and place it here -->
-
 A complete ROS 2 offboard control system built using **ROS 2 Jazzy**, **PX4 Autopilot**, **Gazebo Sim**, **Micro XRCE-DDS**, and **QGroundControl**.
 
 This project demonstrates how ROS 2 communicates with PX4 through Micro XRCE-DDS to execute autonomous offboard flight operations in simulation, including arming, takeoff, waypoint navigation, and landing.
+
+https://github.com/user-attachments/assets/a2bdb0dd-1ef8-45af-9e91-c96eb75bd08c
 
 ---
 
